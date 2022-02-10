@@ -1,0 +1,16 @@
+name: SoulCore
+version: 0.1
+main: de.dal3x.soulcore.main.CorePlugin
+author: DAL3X
+api-version: 1.15
+depend: [Vault, WorldGuard]
+commands:
+   randomRegionTp:
+      usage: /<command>
+      description: (Nur von Konsole nutzbar)
+   soulcore:
+      usage: /<command>
+      description: Nutzt Core Mechaniken
+   bank:
+      usage: /<command>
+      description: Nutzt das Banksystem
